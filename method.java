@@ -1,6 +1,3 @@
- 
-
- 
 
 class variable { 
     static String name; 
@@ -14,16 +11,6 @@ class variable {
         System.out.println("ID   : " + id); 
         System.out.println("cgpa : " + cgpa); 
     } 
- 
-
- 
-
- 
-
- 
-
- 
-
  
     static void StaticMethod() 
     { 
