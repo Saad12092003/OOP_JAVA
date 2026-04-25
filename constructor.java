@@ -1,4 +1,3 @@
- 
 
 class keyword{ 
    String name; 
@@ -26,10 +25,6 @@ class keyword{
         gender=k.gender; 
         cgpa =3.67; 
     } 
-
-                         
-
- 
  
     keyword(String name,int age,char gender,double cgpa) 
     { 
