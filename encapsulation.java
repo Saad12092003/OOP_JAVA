@@ -55,6 +55,5 @@ public class encapsulation {
         System.out.println("Student Dept :" +s.getDept());
         System.out.println("Student Cgpa :"+s.getCgpa());
 
-
     }
 }
