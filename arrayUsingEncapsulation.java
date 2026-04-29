@@ -56,8 +56,6 @@ public class  arrayUsingEncapsulation {
               System.out.println("Student Cgpa : " + x.getCgpa());
                System.out.println(" ");
 
-
-
         }
     }
 }
