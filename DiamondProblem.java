@@ -1,5 +1,5 @@
 /*
-        ### Diamond Problem
+ Diamond Problem
          A
        /   \
       B     C
