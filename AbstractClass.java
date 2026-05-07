@@ -4,7 +4,7 @@ abstract class animal
 
     void mortal() // normal method
     {
-        System.out.println("Animal is mortal");
+        System.out.println("Animal is not mortal");
     }
 }
 class Dog extends animal
