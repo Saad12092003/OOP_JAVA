@@ -51,7 +51,7 @@ public class  arrayUsingEncapsulation {
         // Display student details
         System.out.println("Student Details:");
         for (std x : s) {
-            System.out.println(" Student Name  : " + x.getName());
+            System.out.println(" Student name  : " + x.getName());
              System.out.println(" Student ID   : " + x.getId());
               System.out.println("Student Cgpa : " + x.getCgpa());
                System.out.println(" ");
@@ -59,5 +59,5 @@ public class  arrayUsingEncapsulation {
 
         }
     }
-    
+
 }

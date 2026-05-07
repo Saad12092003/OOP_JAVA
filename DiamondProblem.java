@@ -45,6 +45,5 @@ public class DiamondProblem{
         x.show();
 
         
-
     }
 }

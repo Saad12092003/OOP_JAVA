@@ -16,7 +16,6 @@ class Dog extends animal
     }
 }
 
-
 public class AbstractClass {
     public static void main(String[] args) {
         Dog d =new Dog();

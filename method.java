@@ -52,10 +52,6 @@ public class method {
         System.out.println("Method Overloading : " ); 
         s1.methodsum(100,200); 
         s1.methodsum(100.01,200.01); 
- 
-
-
- 
 
     } 
 } 
