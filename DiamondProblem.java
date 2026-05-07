@@ -41,8 +41,10 @@ class D implements B,C
 
 public class DiamondProblem{
     public static void main(String[] args) {
-        D obj =new D();
-        obj.show();
+        D x =new D();
+        x.show();
+
+        
 
     }
 }

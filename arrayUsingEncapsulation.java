@@ -55,7 +55,9 @@ public class  arrayUsingEncapsulation {
              System.out.println(" Student ID   : " + x.getId());
               System.out.println("Student Cgpa : " + x.getCgpa());
                System.out.println(" ");
+               
 
         }
     }
+    
 }
