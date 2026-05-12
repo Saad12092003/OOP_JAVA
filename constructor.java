@@ -54,9 +54,8 @@ public class constructor {
         s2.display(); 
         System.out.println("[Copy Constructor]"); 
         s3.display(); 
-        System.out.println("[Constructor overloading and this keyword uses] "); 
+        System.out.println("[Constructor overloading and this keyword uses] ");                                                       
 
-        s4.display();
-    } 
-
+        s4.display();                                                                                     
+    }           
 }
