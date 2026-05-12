@@ -54,15 +54,6 @@ class child2 extends Person {
     void display() {
         System.out.println(getname());
         System.out.println(getage());
-
-
-
-
-
-
-
-
-        
     }
 }
 
