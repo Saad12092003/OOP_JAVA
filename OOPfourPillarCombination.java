@@ -34,6 +34,15 @@ class child1 extends Person {
     }
 }
 
+
+
+
+
+
+
+
+
+
 class child2 extends Person {
 
 
